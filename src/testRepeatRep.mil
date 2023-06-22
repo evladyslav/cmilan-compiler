@@ -1,0 +1,13 @@
+BEGIN
+    i := READ;
+    k := 0; 
+    step := 3; 
+    repeat
+        WRITE(k);
+        k := k + step;
+        repeat
+            write(i)
+        until  q < j
+    until  k < i
+END;
+        
